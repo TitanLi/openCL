@@ -15,6 +15,7 @@
 ```
 
 ## Intel® SDK for OpenCL™ Applications for Linux* 2017
+[安裝教學](http://sibsaidinblog-tw.blogspot.tw/2016/04/opencl-intel-cpu.html)
 ```
   $ tar zxf intel_sdk_for_opencl_2017_yocto_7.0.0.2567_x64.tgz
   $ cd intel_sdk_for_opencl_2017_yocto_7.0.0.2567_x64.tgz
