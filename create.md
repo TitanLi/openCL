@@ -15,3 +15,6 @@
 5. properties settings
     * Select the project, then right click,Project->Properties->C/C++ Build->Settings->GCC C Linker->Libraries
     * ![properties settings](https://github.com/TitanLi/openCL/blob/master/picture/properties.png)
+6. GCC in Eclipse to use C99,then for and loop will used
+    * Select the project, then right click,Project->Properties->C/C++ Build->Setting->GCC C Compiler->Miscellaneous.In other flags text box add the -std=c99
+    * ![c99](https://github.com/TitanLi/openCL/blob/master/picture/c99.png)
